@@ -14,7 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://127.0.0.1/CodeIgniter_2.1.0_XML-RPC_Client/';
+//$config['base_url']	= 'http://127.0.0.1/CodeIgniter_2.1.0_XML-RPC_Client/';
+$config['base_url']	= 'http://localhost/CodeIgniter_2.1.0_XML-RPC_Client/';
 
 /*
 |--------------------------------------------------------------------------
